@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ASLI
+=======
+Salam :))
+>>>>>>> c2af22a03abd708e00ca4e5110613fd2ba0a9611
